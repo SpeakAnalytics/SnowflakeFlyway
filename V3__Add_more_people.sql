@@ -1,0 +1,1 @@
+insert into LND.PERSON (ID, NAME) values (4, 'Mr. Bar');
